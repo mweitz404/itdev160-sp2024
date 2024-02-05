@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Assignment 1</title>
+</head>
+
+<body>
+    <h1>Activity 1</h1>
+    <h2>My favorite foods</h2>
+    <p>Here is a list of my <strong>favorite</strong> foods</p>
+    <hr>
+    <ul>
+        <li>Ice Cream</li>
+        <div> Reasons I like Ice Cream</div>
+        <ul>
+            <li> I <em>love</em> frozen desserts!</li>
+        </ul>
+        <li> Customizable toppings</li>
+        <li> Many flavors to choose from</li>
+    </ul>
+</body>
+
+</html>
