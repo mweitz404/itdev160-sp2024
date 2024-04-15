@@ -1,0 +1,49 @@
+html {
+    background-color: #105;
+}
+
+body {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(238, 238, 238);
+}
+
+header {
+    padding: 10px;
+    background-color: #1e0241;
+    color: rgb(0, 0, 0);
+}
+
+h1 {
+    color: rgb(206, 200, 200);
+    background-color: #4b8ef9;
+    text-align: center;
+}
+
+h2 {
+    color: rgb(0, 0, 0);
+    background-color: #4b8ef9;
+}
+img {
+    height: 300px;
+    text-align: left;
+}
+
+figcaption span {
+    font-size: .85em;
+    color: rgb(206, 200, 200);
+}
+
+p#product-description {
+    margin: 20px 0 20px 0;
+    text-align: justify;
+}
+
+div.review {
+    padding: 10px;
+    background-color: #4b8ef9;
+    margin: 20px 0 20px 0;
+}
+
+footer.footer {
+    background-color: #333;
+}
